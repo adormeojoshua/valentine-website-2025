@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Papayagan ka kaya?",                                    // First interaction
+            text: "ARE U G OR NOT???🧐😏",                                    // First interaction
             yesBtn: "Hindi ko sure",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "SYEMPRE PAPAYAGAN AKO"           // Secret hover message
+            noBtn: "NO",                                               // Text for "No" button
+            secretAnswer: "SYEMPRE G AKO, LETSGOOOO"           // Secret hover message
         },
         second: {
             text: "How much do you HATE me?(love)",                          // For the love meter
