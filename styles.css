@@ -84,30 +84,14 @@ body {
     opacity: 0.7;
     cursor: not-allowed;
     pointer-events: none;
+
+
+
 }
 
-.secret-answer {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    margin-top: 0;
-    opacity: 0.2;
-    transition: opacity 0.3s;
-    transform: scale(0.7);
-    z-index: 2;
-    animation: subtle-hint 2s infinite alternate;
-    animation-delay: 5s;
-}
 
-.secret-answer .cute-btn {
-    font-size: 0.8rem;
-    padding: 5px 10px;
-}
 
-.secret-answer:hover {
-    opacity: 1;
-    animation: none;
-}
+
 
 .love-meter {
     position: relative;
